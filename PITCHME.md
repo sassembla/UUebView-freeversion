@@ -95,8 +95,7 @@ htmlの通りに伸びたり縮んだりしたUIが生成される。
 ![fig4](./doc/UUebView4.png)
 	￼
 ---
-![fig4](./doc/UUebView4.png)
-![fig3](./doc/UUebView3.png)
+![fig5](./doc/UUebView5.png)
 
 背景に色がついてるとこは、色的に対応する  
 uGUIのパーツを使って生成される。
