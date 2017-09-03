@@ -1,4 +1,8 @@
+
 # Kill WebView
+
+#### by 殺意駆動開発(@toru_inoue)
+---
 
 ## 概要
 Unityでゲーム作ってて一番アンニュイになるところってどのへん？
@@ -26,16 +30,17 @@ Unityなのに。
 ---
 
 ## 概要
-他にも色々とあるが、ということで「殺る気が溜まった」ので、できたよ！ 
+他にも色々とあるが、  
+ということで「殺る気が溜まった」ので、できたよ！ 
 
-**みるがいい！！**
+**みるがいい！！**  
 これが！！ WebViewを殺すモノだ！！
 
 [UUebView-freeversion](https://github.com/sassembla/UUebView-freeversion)
 
 ---
 
-## UUebView is 何
+# UUebView is 何
 UnityのコンテンツをHTMLで書けるようにする奴。
 より具体的に言うと、
 
@@ -44,23 +49,25 @@ UnityのコンテンツをHTMLで書けるようにする奴。
 
 ---
 
-## UUebView is 何
-こいつによって、JSやCSSを書くことなく、HTMLとuGUIパーツによってGUIを作り出すことができるようになる。
+# UUebView is 何
+こいつによって、JSやCSSを書くことなく、  
+HTMLとuGUIパーツによってGUIを作り出すことができるようになる。  
 そして自由な頻度でviewの内容を更新することができる。
 
 ---
 
-# Viewの作り方を紹介するぜ！！！
-
-
-## 1.適当にuGUIで雛形を作る
+# 作り方を紹介するぜ！
+1.適当にuGUIで雛形を作る
 
 ![fig1](./doc/UUebView.png)
-
 
 これらは次のような感じのパーツ名にしておく。
 
 ![fig2](./doc/UUebView2.png)
+
+---
+
+# 作り方を紹介するぜ！
 
 2.Window > UUebView > Generate UUeb Tags From Selection する
 
