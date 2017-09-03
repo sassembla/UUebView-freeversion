@@ -21,10 +21,19 @@ public class SampleHandler : MonoBehaviour, IUUebViewEventHandler {
 	void Update () {
 		
 	}
-
+    
 	public void Reload () {
+        var scrollView = GameObject.Find("Scroll View");
+        scrollView.GetComponent<RectTransform>().anchoredPosition = new Vector3(236f, 0f, 0f);
+        scrollView.GetComponent<RectTransform>().rotation = Quaternion.Euler(0, 0, 0);
 		uuebView.GetComponent<UUebViewComponent>().Core.Reload();
 	}
+
+    public void StarWars () {
+        var scrollView = GameObject.Find("Scroll View");
+        scrollView.GetComponent<RectTransform>().anchoredPosition = new Vector3(141.41f, 0f, 0f);
+        scrollView.GetComponent<RectTransform>().rotation = Quaternion.Euler(48.5f, 0, 0);
+    }
 
     public void OnElementLongTapped(ContentType type, string param, string id)
     {
