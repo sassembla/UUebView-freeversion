@@ -45,12 +45,12 @@ UnityのコンテンツをHTMLで書けるようにする奴。
 
 ## 1.適当にuGUIで雛形を作る
 
-![fig1](./UUebView.png)
+![fig1](./doc/UUebView.png)
 
 
 これらは次のような感じのパーツ名にしておく。
 
-![fig2](./UUebView2.png)
+![fig2](./doc/UUebView2.png)
 
 2.Window > UUebView > Generate UUeb Tags From Selection する
 
@@ -60,12 +60,12 @@ Hierarchy上で選択した項目がHTMLタグになる。
 3.HTMLファイルを用意する
 
 こんな感じのやつ。
-![fig3](./UUebView3.png)
+![fig3](./doc/UUebView3.png)
 	￼
 
 すると、良い感じにuGUIの中身がhtmlで書いた内容の通りに伸びたり縮んだりしてUIを生成する。
 
-![fig4](./UUebView4.png)
+![fig4](./doc/UUebView4.png)
 	￼
 
 テキスト背景に色がついてるとこは、そのまま色的に対応するuGUIのパーツを使って生成される。
