@@ -218,5 +218,9 @@ streaming movieタグとか、
 商用がリリースされてもそのまま無償で使える  
 フリー版にするつもり。
 
-(使用知見が足りなすぎる)
+(使用知見が足りなすぎる)  
 
+使って。  
+VRとかでももちろん出せるんで使って。
+
+[UUebView-freeversion](https://github.com/sassembla/UUebView-freeversion)
