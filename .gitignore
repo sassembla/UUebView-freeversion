@@ -5,3 +5,4 @@ Assembly-CSharp.csproj
 Library/*
 Temp/*
 UUebView_freever.sln
+Assembly-CSharp-Editor.csproj

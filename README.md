@@ -1,6 +1,6 @@
 # UUebView-freeversion
-Standalone WebView for Unity.
-
+Standalone WebView for Unity.  
+Unity 5.5.x or later.
 
 ## demo scene
 
