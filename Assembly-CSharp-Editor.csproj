@@ -123,7 +123,7 @@
  <HintPath>/Applications/Unity5.6.1p4/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UUebView">
- <HintPath>/Users/passepied/Desktop/UUebView_freever/UUebView-freeversion/Assets/UUebView(free_ver)/UUebView.dll</HintPath>
+ <HintPath>/Users/passepied/Desktop/UUebView-freeversion/Assets/UUebView(free_ver)/UUebView.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity5.6.1p4/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
