@@ -27,10 +27,9 @@ open **./WebGL/index.html** in your web browser. you can see html browser runnin
 * the uGUI event receiver system is implemented.
 
 ### not yet
-* no changelog.
 * reduce amount of the GameObject.
 * generating original tags with Editor GUI.
-* no benchmark.
+* no benchmark yet.
 
 ## license 
 [LICENSE](./LICENSE)
