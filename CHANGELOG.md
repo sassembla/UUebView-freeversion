@@ -1,0 +1,23 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Romantic Versioning](http://blog.legacyteam.info/2015/12/romver-romantic-versioning/).
+
+## [Unreleased]
+
+
+## [1.0.0] - 2017-09-09
+
+### Changed
+- Start using "changelog".
+
+### Added
+- Unity richText support (size & color).
+
+### Fixed
+- br layout bug.
+
+
+[Unreleased]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.0...HEAD
+[1.0.0]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.0...1.0.0
