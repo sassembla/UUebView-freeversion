@@ -6,6 +6,13 @@ and this project adheres to [Romantic Versioning](http://blog.legacyteam.info/20
 
 ## [Unreleased]
 
+## [1.0.1] - 2017/09/14
+
+### Fixed
+- never ending load bug.
+
+### Added
+- TreeQueryLanguage added.
 
 ## [1.0.0] - 2017-09-09
 
@@ -19,5 +26,6 @@ and this project adheres to [Romantic Versioning](http://blog.legacyteam.info/20
 - br layout bug.
 
 
-[Unreleased]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.0...HEAD
+[Unreleased]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.1...HEAD
+[1.0.1]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.1...1.0.0
 [1.0.0]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.0...1.0.0
