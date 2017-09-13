@@ -28,7 +28,7 @@ open **./WebGL/index.html** in your web browser. you can see html browser runnin
 
 ### not yet
 * reduce amount of the GameObject.
-* generating original tags with Editor GUI.
+* generating original tags with rich Editor GUI.
 * no benchmark yet.
 
 ## license 
