@@ -47,7 +47,7 @@ public class SampleHandler : MonoBehaviour, IUUebViewEventHandler {
 		}
     }
 
-    public void OnLoaded()
+    public void OnLoaded(string[] treeIds)
     {
         var contentSizeDelta = scrollViewContent.GetComponent<RectTransform>().sizeDelta;
 		contentSizeDelta = new Vector2(contentSizeDelta.x, uuebView.GetComponent<RectTransform>().sizeDelta.y);
@@ -68,7 +68,7 @@ public class SampleHandler : MonoBehaviour, IUUebViewEventHandler {
         // throw new System.NotImplementedException();
     }
 
-    public void OnUpdated()
+    public void OnUpdated(string[] newTreeIds)
     {
         // throw new System.NotImplementedException();
     }
