@@ -34,6 +34,6 @@ and this project adheres to [Romantic Versioning](http://blog.legacyteam.info/20
 
 
 [Unreleased]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.2...HEAD
-[1.0.1]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.2...1.0.1
+[1.0.2]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.2...1.0.1
 [1.0.1]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.1...1.0.0
 [1.0.0]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.0...1.0.0
