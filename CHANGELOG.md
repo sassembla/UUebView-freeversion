@@ -6,6 +6,10 @@ and this project adheres to [Romantic Versioning](http://blog.legacyteam.info/20
 
 ## [Unreleased]
 
+## [1.0.3] - 2017/10/30
+### Fixed
+- child contents size bug was fixed.
+
 ## [1.0.2] - 2017/09/15
 ### Changed
 - IUUebViewEventHandler OnLoaded and OnUpdated signature changed. string[] treeIds added.
@@ -33,7 +37,8 @@ and this project adheres to [Romantic Versioning](http://blog.legacyteam.info/20
 - br layout bug.
 
 
-[Unreleased]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.2...HEAD
+[Unreleased]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.3...HEAD
+[1.0.3]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.3...1.0.2
 [1.0.2]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.2...1.0.1
 [1.0.1]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.1...1.0.0
 [1.0.0]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.0...1.0.0
