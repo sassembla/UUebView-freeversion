@@ -6,6 +6,11 @@ and this project adheres to [Romantic Versioning](http://blog.legacyteam.info/20
 
 ## [Unreleased]
 
+## [1.0.4] - 2018/03/19
+
+### Fixed
+- relative layout problem is finally fixed.
+
 ## [1.0.3] - 2017/10/30
 ### Fixed
 - child contents size bug was fixed.
@@ -37,7 +42,8 @@ and this project adheres to [Romantic Versioning](http://blog.legacyteam.info/20
 - br layout bug.
 
 
-[Unreleased]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.3...HEAD
+[Unreleased]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.4...HEAD
+[1.0.4]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.4...1.0.3
 [1.0.3]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.3...1.0.2
 [1.0.2]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.2...1.0.1
 [1.0.1]: https://github.com/sassembla/UUebView-freeversion/compare/1.0.1...1.0.0
