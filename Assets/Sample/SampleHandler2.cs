@@ -15,7 +15,7 @@ public class SampleHandler2 : MonoBehaviour, IUUebViewEventHandler
         scrollViewContent = GameObject.Find("Scroll View/Viewport/Content");
 
         var scrollViewSize = scrollView.GetComponent<RectTransform>().sizeDelta;
-        uuebView = UUebViewComponent.GenerateSingleViewFromUrl(this.gameObject, "resources://tmpro.html", scrollViewSize, null, null, null, null, new TMProPlugin());
+        uuebView = UUebViewComponent.GenerateSingleViewFromUrl(this.gameObject, "resources://tmpro.html", scrollViewSize);
         uuebView.transform.SetParent(scrollViewContent.transform, false);
     }
 
