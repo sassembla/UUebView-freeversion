@@ -11,6 +11,9 @@ and this project adheres to [Romantic Versioning](http://blog.legacyteam.info/20
 ### Fixed
 - relative layout problem is finally fixed.
 
+### Added
+- custom page layout reporter is added. Unity > Window > UUebView > Report will make your report package!
+
 ## [1.0.3] - 2017/10/30
 ### Fixed
 - child contents size bug was fixed.
